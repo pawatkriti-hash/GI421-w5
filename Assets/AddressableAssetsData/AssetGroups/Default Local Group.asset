@@ -21,6 +21,11 @@ MonoBehaviour:
     m_SerializedLabels:
     - Model
     FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 8c90135e58e3a9a43a2555473b491161
+    m_Address: Assets/Prefabs/LOD/Moving_Castle LOD.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
   m_ReadOnly: 0
   m_Settings: {fileID: 11400000, guid: 8ba01e704b7a3754989a83813cc35bca, type: 2}
   m_SchemaSet:
